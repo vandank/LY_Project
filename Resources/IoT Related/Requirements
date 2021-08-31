@@ -2,11 +2,14 @@ Temperature Sensor - ds18b20, LM-35
 
 Pulse/ HeartBeat Sensor
 
-Accelerometer Sensor(Body Position) - adxl345
+Accelerometer Sensor(Body Position) - adxl345, ADXL335
 
 ECG Sensor - AD8232
 
 GPS Sensor(Possibility) - Patient location Tracking
 
 Stepper Motor - Pacemaker - Controls the heart beat
+
+Blood Pressure Sensor
+
 
