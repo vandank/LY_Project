@@ -1,10 +1,10 @@
-Temperature Sensor - ds18b20
+Temperature Sensor - ds18b20, LM-35
 
 Pulse/ HeartBeat Sensor
 
 Accelerometer Sensor(Body Position) - adxl345
 
-ECG Sensor
+ECG Sensor - AD8232
 
 GPS Sensor(Possibility) - Patient location Tracking
 
