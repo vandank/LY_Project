@@ -1,17 +1,15 @@
-Temperature Sensor - ds18b20, LM-35
+ESP 32
 
-Pulse/ HeartBeat Sensor
+ESP 8266
 
-Accelerometer Sensor(Body Position) - adxl345, ADXL335
+MPU 6050 Gyroscope
 
-ECG Sensor - AD8232
+MAX 4466 Microphone
 
-GPS Sensor(Possibility) - Patient location Tracking
+GY-MAX 30100 Pulse Oximeter
 
-Stepper Motor - Pacemaker - Controls the heart beat
+0.96’’ OLED Display
 
-Blood Pressure Sensor
 
-Spo2 Sensor
 
 
